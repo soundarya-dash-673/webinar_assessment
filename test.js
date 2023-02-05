@@ -1,1 +1,1 @@
-console.log("hiii guys good evening, have a good day...");
+console.log("hiii guys good evening, have a good day");
